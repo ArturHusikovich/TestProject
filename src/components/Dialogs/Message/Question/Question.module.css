@@ -1,0 +1,11 @@
+.title{
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+}
+.item{
+    margin-bottom: 3px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: rgb(156, 128, 231);
+}

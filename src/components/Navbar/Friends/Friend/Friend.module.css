@@ -1,0 +1,21 @@
+.fr{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  .friends{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .item{
+    width: 33.333%;
+  }
+  .item a{
+    color: yellow;
+  }
+  img{
+    width: 30px;
+    height: 30px;
+  }

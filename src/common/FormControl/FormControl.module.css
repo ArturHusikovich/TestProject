@@ -1,0 +1,9 @@
+.error span {
+    color: red;
+}
+.control textarea{
+    border: 2px solid red;
+}
+.control input{
+    border: 2px solid red;
+}

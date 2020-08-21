@@ -1,0 +1,9 @@
+.item{
+    border: 2px solid green;
+    margin-bottom: 10px;;
+}
+.selected{
+    font-weight: 800;
+    cursor: pointer;
+    margin-right: 5px;
+}

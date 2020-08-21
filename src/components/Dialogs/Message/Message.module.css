@@ -1,0 +1,19 @@
+.title{
+    display: grid;
+    grid-template-columns: 5fr 5fr 5fr;
+}
+.dialogs{
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+}
+.title{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.dialogsItems{
+    margin-left: 20px;
+}
+.active{
+    color: springgreen;
+}
+

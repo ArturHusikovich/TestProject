@@ -1,0 +1,18 @@
+.item{
+    padding: 30px;
+    font-size: 20px;
+}
+.mainPhoto{
+    height: 150px;
+    width: 150px;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.contact{
+    padding-left: 20px;
+}
+.error{
+    color: yellow;
+}
